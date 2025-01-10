@@ -41,7 +41,7 @@ RustAdmin soll ein umfassendes Verwaltungstool für Rust-Server werden, das entw
 2. Config-Datei
 
 3. Datenbankintegration
-
+  - Text Log
 4. Website-Integration
 
 # Installation
